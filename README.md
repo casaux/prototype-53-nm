@@ -1,1 +1,1 @@
-# prototype-53-nm
+# mycasa-3.0-template
